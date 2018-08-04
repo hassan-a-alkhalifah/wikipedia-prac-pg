@@ -5,7 +5,30 @@
 /*--- MAIN LEFT MENU CONTAINER ---*/
 #main_left_menu_container {
   border: 1px solid green;
+  padding-left: 35px;
 }
+#wikipedia_logo {
+  width: 100%;
+  height: 127px;
+}
+#main_left_menu_container .col-lg-12 {
+  padding-right: 0;
+}
+#main_left_menu_container ul {
+  list-style-type: none;
+  font-size: 12px;
+  padding-left: 0;
+}
+#main_left_menu_container ul li a{
+  color: #0645AD;
+}
+/*-- ADDITIONAL STYLES, COLORS, ETC --*/
 #purple {
   color: #0b0080;
+}
+.dk-gray {
+  color: #444444;
+}
+.lt-gray-border-btm {
+  border-bottom: 1px solid #555;
 }
