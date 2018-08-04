@@ -1,0 +1,9 @@
+#main_container {
+  border: 1px solid red;
+}
+#main_left_menu_container {
+  border: 1px solid green;
+}
+#main_content_container {
+  border: 1px solid blue;
+}
